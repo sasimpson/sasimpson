@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sasimpson
 - 👀 I’m interested in collaborating with people to make things
-- 🌱 I’m currently learning unity and still learning go
+- 🌱 I’m currently learning various frontend techologies and am always using and learning go
 - 💞️ I’m looking to collaborate on oss projects that use go
 - 📫 How to reach me, message me on twitter @scotty or via email
 
